@@ -1,0 +1,1 @@
+const hi = () => conole.log('bye');
