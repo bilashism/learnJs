@@ -1,1 +1,1 @@
-const hi = () => conole.log('bye');
+const hi = () => console.log("bye");
